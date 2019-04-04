@@ -1,0 +1,35 @@
+
+table,td {
+  border: 5px solid black;
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align:center;
+  background-color: blue;
+  color: white;
+}
+
+tr {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align:center;
+  background-color:grey;
+  color:gold
+}
+
+li {
+  color:blue;
+  font-family: 'Oxygen', sans-serif;
+  font-size: 25px;
+  
+}
+.about {
+  padding: 250px 0;
+	margin: 30px;
+  background-image: url("torridon.jpg");
+  background-size: cover;
+}
